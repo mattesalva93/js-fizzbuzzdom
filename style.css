@@ -1,0 +1,19 @@
+.ms_fizz-box{
+    background-color: #567F53;
+}
+.ms_buzz-box{
+    background-color: #C94948;
+}
+.ms_fizzbuzz-box{
+    background-color: #314DAE;
+}
+.ms_regular-box{
+    background-color: #D3D041;
+}
+.ms_table{
+    background-color: #9CE8D7;
+}
+h1{
+    background-color: #DD1F03;
+    color: white;
+}
